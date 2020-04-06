@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Space Invaders';
+    src: url('Space-Invaders.eot');
+    src: url('Space-Invaders.eot?#iefix') format('embedded-opentype'),
+        url('Space-Invaders.woff2') format('woff2'),
+        url('Space-Invaders.woff') format('woff'),
+        url('Space-Invaders.ttf') format('truetype'),
+        url('Space-Invaders.svg#Space-Invaders') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
